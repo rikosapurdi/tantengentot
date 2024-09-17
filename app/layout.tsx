@@ -44,7 +44,7 @@ export default function RootLayout({
             "name":"admin",
             "url":"https://tantengentot.pages.dev"
             },
-            "foundingDate":"2024-06-10"
+            "foundingDate":"2024-09-16"
         }
         const jsonLd1 = {
             "@context": "https://schema.org",
